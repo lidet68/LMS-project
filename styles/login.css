@@ -1,0 +1,45 @@
+.form-container{
+  background-color: gold;
+  width: 600px;
+  height: 700px;
+  margin-left: 500px;
+  box-shadow: 10px 10px 5px gray;
+  border-radius: 100px;
+  
+}
+h1{
+  padding-top: 10px;
+  margin-left: 200px;
+  font-weight: 700;
+}
+input{
+  width: 450px;
+  height: 50px;
+  margin-left: 20px;
+  border: 5px solid black;
+  margin-bottom: 10px;
+}
+button{
+  color: black;
+  background-color: gold;
+  font-weight: 600;
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+  border-width: 8px;
+  margin-left: 20px;
+  margin-top: 20px;
+ 
+}
+p{
+  font-size: medium;
+  margin-left: 150px;
+  padding-top: 30px;
+
+
+}
+
+button > a{
+  text-decoration: none;
+  color: black;
+}

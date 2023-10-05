@@ -1,0 +1,74 @@
+
+.main{
+  margin-left: 200px;
+  margin-top: 80px;
+}
+th{
+  width: 200px;
+  background-color: black;
+  color:gold;
+  height: 50px;
+  border-radius: 25px;
+}
+td{
+  width: 200px;
+  height: 40px;
+  padding-left: 35px;
+}
+.delete-row-button{
+  background-color: rgb(251, 7, 7);
+  border-width: 5px;
+  border-radius: 20px;
+  height: 40px;
+  color:black;
+  font-weight: 400;
+  margin-left: 20px;
+}
+.update-row-button{
+  background-color: rgb(7, 251, 48);
+  border-width: 5px;
+  border-radius: 20px;
+  height: 40px;
+  color:black;
+  font-weight: 400;
+  margin-left: 20px;
+}
+.orderInfo-form-container{
+  background-color: aqua;
+  width: 2px;
+  border-color: black;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+div > form{
+  height: 100px;
+}
+label{
+  font-size: larger;
+  font-weight: 400;
+  
+}
+form{
+  margin-left: 400px;
+}
+.formSubmit{
+  color: black;
+  background-color: gold;
+  font-weight: 600;
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+  border-width: 10px;
+  box-shadow: 10px 10px 1 gray;
+  margin-left: 140px;
+}
+.formDiv{
+  width: 300px;
+  height: 100px;
+  background-color: rgb(200, 207, 205);
+  border-radius: 50px;
+  padding-top: 40px;
+  padding-left: 150px;
+  margin-bottom: 10px;
+}

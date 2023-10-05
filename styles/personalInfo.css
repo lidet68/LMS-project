@@ -1,0 +1,18 @@
+.main{
+  margin-left: 200px;
+  margin-top: 80px;
+}
+th{
+  width: 200px;
+  background-color: black;
+  color:gold;
+  height: 50px;
+  border-radius: 25px;
+}
+td{
+  width: 200px;
+  height: 40px;
+  padding-left: 35px;
+  border: 1px solid gold;
+  border-radius: 10px;
+}

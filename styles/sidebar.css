@@ -1,0 +1,27 @@
+.sidebar{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  background-color: white;
+  width: 100px;
+  z-index: 200;
+}
+.sidebar-link{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 74px;
+  flex-direction: column;
+  cursor: pointer;
+  background-color: black;
+ 
+}
+.sidebar-link:hover{
+  background-color: rgb(235, 235, 235);
+}
+a{
+  text-decoration: none;
+  color: gold;
+}
+

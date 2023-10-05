@@ -1,0 +1,46 @@
+.header-content{
+  background-color: gold;
+  display:flex;
+  margin-left: 91px;
+  
+  display: fixed;
+  top: 0;
+  right: 0;
+  height: 70px;
+  border-radius: 35px;
+  left: 91px;
+  z-index: 100;
+  flex-direction: row;
+  justify-content: end;
+  align-items: stretch;
+
+}
+.header-content1{
+  flex: 1;
+ 
+  padding-left: 600px;
+  padding-top: 20px;
+  font-weight: 600;
+  font-size: larger;
+
+}
+.header-content2{
+  width: 70px;
+  
+  padding-top: 20px;
+
+}
+.add-order{
+  background-color: black;
+  color: white;
+  width: 70px;
+  height:40px;
+  border-radius: 20px;
+}
+.add-patient{
+  background-color: black;
+  color: white;
+  width: 70px;
+  height:40px;
+  border-radius: 20px;
+}

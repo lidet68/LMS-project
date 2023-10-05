@@ -1,0 +1,22 @@
+
+.welcome-container{
+  margin-left: 400px;
+  color:rgb(0, 0, 0);
+}
+h1{
+  font-size: xxx-large;
+  font-weight: 800;
+}
+.logout-button{
+  color: black;
+  background-color: gold;
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+  border-width: 10px;
+}
+.logout-button-link{
+  color: black;
+}
+
+
